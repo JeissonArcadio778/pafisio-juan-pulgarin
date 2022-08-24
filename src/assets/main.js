@@ -2,7 +2,7 @@ const API = 'https://youtube-v31.p.rapidapi.com/search?channelId=UCAYk9L838Kwxy4
 
 
 
-const content = null || document.getElementById('content');
+const content = document.getElementById('content');
 
 const options = {
   method: 'GET',
